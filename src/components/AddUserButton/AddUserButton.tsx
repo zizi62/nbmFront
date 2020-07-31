@@ -7,7 +7,7 @@ import { grey } from '@material-ui/core/colors';
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
         root: {
-            width: 400,
+            width: '100%',
             height: '100%',
             minHeight: 100,
             border: '3px dashed #e0e0e0',
